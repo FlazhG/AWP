@@ -1,0 +1,79 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.contenedorgeovanni{
+    background: linear-gradient(to right, #81f026, #0ac9d6);
+    padding: 15px;
+    border-radius: 50px;
+    margin: 15px;
+    margin-right: 110px;
+    margin-left: 110px;
+    width: 1200px;
+    height: 1200px;
+
+}
+.soy{
+    box-shadow: 0px 0px 15px 0 #000;
+    margin: auto;
+    width: 500px;
+    height: 78px;
+    
+}
+    
+
+
+.yosoy{
+    color: blanchedalmond;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+
+.componente1{
+    background-color: rgb(39, 28, 21);
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+    margin-top: 50px;
+
+
+}
+.foto{
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 300px;
+    height: 200px;
+}
+
+.foto2{
+    margin-left: 450px;
+    margin-top: -300px;
+    width: 300px;
+    height: 200px;
+}
+
+.foto3{
+    margin-left: 400px;
+    margin-top: 100px;
+    width: 300px;
+    height: 200px;
+}
+
+
+
+.componente2{
+    background-color: crimson;
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    margin-top: 50px;
+    color: blanchedalmond;
+    text-align: left;
+    font-size:40px ;
+
+}
+
+
